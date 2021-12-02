@@ -1,4 +1,4 @@
-# Word2vec-Implementaion-CBOW-SkipGram
+# Word2vec-Implementation-CBOW-SkipGram
 
 This is a repository contains word2vec Implementation using PyTorch on NLTK corpus  
 
